@@ -15,3 +15,8 @@ The duration during which websites are to be blocked are stored in "Time.txt".
 The starting time and ending time are provided in separated lines respectively.
 The format  of the time is : Hour:Minute:Second
 For eg: 9:30:15
+
+Host File Location
+
+Windows Host : "C:\Windows\System32\drivers\etc\hosts"
+Linux Host : "/etc/hosts"
